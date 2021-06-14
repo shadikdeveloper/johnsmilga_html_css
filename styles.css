@@ -2,3 +2,24 @@ h1 {
   color: grey;
   font-size: 2rem;
 }
+
+#top-heading{
+    color:blue;
+    font-size:30px;
+    background-color: black;
+
+}
+#footer-heading{
+    color:green;
+    font-size: 40px;
+    background-color: red;
+}
+.green{
+    color:red;
+    background:green;
+
+}
+.red{
+    color:green;
+    background-color: red;
+}

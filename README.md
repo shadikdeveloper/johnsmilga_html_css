@@ -138,3 +138,8 @@ html is responsible for web page structure.
 css is reponsible for stying the web.
 
 selector {property:value;}
+
+in Css we can apply 3 styles.
+
+internal css, inline css, external css.
+
