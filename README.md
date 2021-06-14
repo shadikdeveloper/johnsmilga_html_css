@@ -131,3 +131,10 @@ Html is responsible for web page structure.
 
   </body>
 </html>
+
+Css: cascading style sheet
+
+html is responsible for web page structure.
+css is reponsible for stying the web.
+
+selector {property:value;}
