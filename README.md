@@ -143,3 +143,30 @@ in Css we can apply 3 styles.
 
 internal css, inline css, external css.
 
+css properties:
+1. color
+2. background-color
+3. width
+4. height
+5. font-family
+font-weight
+font-style
+text-align
+text-indent
+text-decoration
+letter-spacing
+word-spacing
+line-height
+padding
+margin
+border
+border-radius
+border-offset
+box-sizing
+display:inline for block 
+block for inline elements
+margin:auto;
+letter-spacing:
+word-spacing:
+line-height:
+
